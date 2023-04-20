@@ -1,0 +1,27 @@
+
+svg:hover{
+    color: #338eee;
+}
+
+
+h1{
+    font-family: 'Lucida Sans Unicode', 'Lucida Sans Regular', 'Lucida Grande',  Arial, sans-serif;
+    font-weight: 100;
+    font-size: 65px;
+    line-height: 0.5;
+}
+button{
+    background-color: transparent;
+    border-image: radial-gradient(100% 185.14% at 100% 100%, rgb(52, 195, 255) 0%, rgb(51, 142, 238) 100%) 5 / 2px / 0 stretch;
+    padding: 20px 30px;
+    color: #fff;
+}
+button:hover{
+     box-shadow: rgba(1, 219, 248, 0.9) 0px 5px 5px, rgba(1, 219, 248, 0.9) 0px -5px 5px, rgba(1, 219, 248, 0.9) 5px 0px 5px, rgba(1, 219, 248, 0.9) -5px 0px 5px;
+}
+
+.row svg:hover,
+.row p:hover{
+color: #338eee;   
+    
+}
